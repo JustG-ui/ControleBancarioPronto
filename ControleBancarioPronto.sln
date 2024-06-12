@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleBancarioPronto", "ControleBancarioPronto\ControleBancarioPronto.csproj", "{64EA071C-F5F6-427C-93DA-7007BB7915EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64EA071C-F5F6-427C-93DA-7007BB7915EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA071C-F5F6-427C-93DA-7007BB7915EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA071C-F5F6-427C-93DA-7007BB7915EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA071C-F5F6-427C-93DA-7007BB7915EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A66561BB-6CE4-437F-8CE1-2F140BC2EA91}
+	EndGlobalSection
+EndGlobal
